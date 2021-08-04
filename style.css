@@ -1,0 +1,12 @@
+body{
+    background-color: cadetblue;
+}
+
+#pic{
+    width: 1200px;
+}
+
+marquee{
+    color: aqua;
+    font-size: 40px
+}
